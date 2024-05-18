@@ -8,6 +8,6 @@
 
 4. 📫 How to reach me costanza.casullo@hotmail.it
 
-![Alt text](https://th.bing.com/th/id/OIP.FJ-KnTJk7zCREJeQogSaIAHaDi?rs=1&pid=ImgDetMain)
-
-<img src="https://th.bing.com/th/id/OIP.FJ-KnTJk7zCREJeQogSaIAHaDi?rs=1&pid=ImgDetMain" alt="image" style="width:300px;height:auto;">
+<img src="https://th.bing.com/th/id/OIP.FJ-KnTJk7zCREJeQogSaIAHaDi?rs=1&pid=ImgDetMain" alt="Vue Js logo" style="width:300px;height:auto;">
+<img src="https://learncybers.com/wp-content/uploads/2019/09/express-js-1.jpeg
+" alt="Express Js logo" style="width:300px;height:auto;">
