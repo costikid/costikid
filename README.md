@@ -15,3 +15,4 @@
 <img src="https://www.turing.com/blog/wp-content/uploads/2022/02/Mongo-DB-Features.jpg" alt="Mongo DBlogo" style="width:100px;height:auto;">
 <img src="https://th.bing.com/th/id/R.16ec7689685b9a3190d9640e10975c4d?rik=I8bUYIolw1HFXQ&riu=http%3a%2f%2fjwt.io%2fimg%2flogo-asset.svg&ehk=pCivya9W3gjn9gE%2fLLnfeMS9spuQzI111gPyqZDBctU%3d&risl=&pid=ImgRaw&r=0" alt="JWT tokens logo" style="width:100px;height:auto;">
 <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/css-beginners-tutorial.jpg" alt="CSS logo" style="width:100px;height:auto;">
+<img src="https://th.bing.com/th/id/OIP.c0UvVr71ZK5Gzk17eoOvtwHaE8?rs=1&pid=ImgDetMain" alt="Wordpress logo" style="width:100px;height:auto;">
