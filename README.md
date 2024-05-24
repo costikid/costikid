@@ -1,12 +1,12 @@
 # Hi 👋, I'm Costanza
 
-1. 🔭 I’m working on [Poemly](https://github.com/costikid/poemly)
+1. 🔧 I make websites for small businesses 
 
-2. 🌱 I’m learning ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+2. 🌱 As a curious person, I’m always eager to learn more about different businesses and how to help them succeed online
 
-3. 💬 I am currently looking for clients who need a website for their small business
+3. 💬 I am currently looking for clients (when clients are not looking for me)
 
-4. 📫 Email me at costanza.casullo@hotmail.it
+4. 📫 Email me at costanza@bromleywebworks.co.uk
 
 ## I am particularly good at
 
