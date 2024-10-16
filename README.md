@@ -1,10 +1,10 @@
 # Hi 👋, I'm Costanza
 
-1. 🔧 I make websites for small businesses (but this is my coder's profile, no marketing I promise)
+1. 🔧 I make websites for small businesses (though I don't think my clients would be interested in my github profile)
 
 2. 🌱 As a curious person, I’m always eager to learn more about different technologies. To the point that sometimes I get lost and forget to stick to one thing. 
 
-3. 💬 Currently not looking for new clients. Only other techies or startup founders to collaborate with
+3. 💬 Does the internet really need another developer sharing her learnings on a blog? Probably not. But if you are reading this, maybe it does. Check it out here 
 
 4. 📫 Email me at costanza@bromleywebworks.co.uk
 
