@@ -1,12 +1,6 @@
 # Hi 👋, I'm Costanza
 
-1. 🔧 I make websites for small businesses (though I don't think my clients would be interested in my github profile)
-
-2. 🌱 As a curious person, I’m always eager to learn more about different technologies. To the point that sometimes I get lost and forget to stick to one thing. 
-
-3. 💬 Does the internet really need another developer sharing her learnings on a blog? Probably not. But if you are reading this, maybe it does. Check it out here (wait, it's a work in progress). 
-
-4. 📫 Email me at costanza@bromleywebworks.co.uk
+I’m always eager to learn more about different technologies. To the point that sometimes I get lost and forget to stick to one thing. 
 
 ## I am particularly good at
 
